@@ -2,11 +2,9 @@
 title: Actions utilisateur
 ---
 
-<h1>Actions utilisateur</h1>
-
 La barre présente en haut du site vous permet d'effectuer différentes actions:
 
-![image_search](img/actions.png)
+![actions](img/actions.png)
 
 1. Effectuer une recherche, qui revient à aller sur la page d'accueil du site
 2. Afficher la carte de toute les stations

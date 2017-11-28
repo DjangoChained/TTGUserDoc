@@ -16,13 +16,11 @@ Vous pouvez également afficher les passagers concernés par le voyage:
 
 ![passagers](img/cart/passengers_cart.png)
 
-En cliquant sur "carte du trajet", vous afficherez une carte reprenant les gares du trajet.
+Cliquez sur le bouton "Réserver un autre billet" pour réserver un autre billet tout en convervant ceux présents dans votre panier.
 
 ![reserver](img/cart/reserver_billet.png)
 
-Cliquez sur le bouton "Réserver un autre billet" pour réserver un autre billet tout en convervant ceux présents dans votre panier.
-
-![payer](img/cart/payer.png)
-
 Cliquez sur le bouton "payer" pour acheter tous les billets présents dans votre panier.
 Lorsque vous achetez un billet, vous êtes redirigé dans la section "mes billets".
+
+![payer](img/cart/payer.png)

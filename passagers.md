@@ -18,6 +18,7 @@ En cliquant sur "Passagers" dans le menu de votre compte, vous pouvez voir la li
 ![liste_passagers](img/passager/passagers.png)
 Vous pouvez modifier les informations d'un passager en cliquant sur le bouton "éditer" qui lui est associé:
 ![editer_passager](img/passager/editer_passager.png)
-Vous pouvez de la même manière supprimer un passager en cliquant sur le bouton "supprimer" qui lui est associé.
-![supprimer_passager](img/passager/supprimer.png)
+
+Vous pouvez de la même manière supprimer un passager en cliquant sur le bouton ![supprimer_passager](img/passager/supprimer.png) qui lui est associé.
+
 Si vous supprimez un passager par inadvertance, il vous suffit d'en recréer un avec les mêmes informations pour le récupérer.

@@ -10,6 +10,6 @@ La barre présente en haut du site vous permet d'effectuer différentes actions:
 2. Afficher la carte de toute les gares
 3. Consulter la liste de vos billets
 4. Consulter votre panier
-5. Effectuer différentes actions sur votre compte
+5. Gérer les informations de votre compte et vous déconnecter
 
-Attention, vous devez être connecté pour consulter vos billet et votre panier.
+Attention, vous devez être connecté pour consulter vos billets et votre panier.

@@ -17,4 +17,4 @@ Vous trouverez ici de l'aide concernant son utilisation.
 * [Comment effectuer une recherche ?](search.md)
 * [Comment consulter les résultats d'une recherche ?](searchResult.md)
 * [Comment accéder à mon panier ?](cart.md)
-* [Comment accéder à mes billets](tickets.md)
+* [Comment accéder à mes billets ?](tickets.md)

@@ -1,4 +1,6 @@
-
+---
+title: Documentation utilisateur
+---
 
 TchouTchouGo est un moteur de recherche de train et cars de la SNCF.
 Vous trouverez ici de l'aide concernant son utilisation.

@@ -2,7 +2,7 @@
 title: Connexion
 ---
 
-Cette page vous permez de vous connecter à votre compte. Cela implique que vous vous soyez inscrit au préalable. 
+Cette page vous permet de vous connecter à votre compte. Cela implique que vous vous soyez inscrit au préalable. 
 
 ![connexion](img/authentification/login.png)
 

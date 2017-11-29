@@ -5,7 +5,7 @@ Vous trouverez ici de l'aide concernant son utilisation.
 
 ## Différentes pages
 
-[accueil](accueil.md)
+* [accueil](accueil.md)
 * [inscription](signup.md)
 * [connexion](login.md)
 * [actions](actions_utilisateur.md)

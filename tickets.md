@@ -8,7 +8,8 @@ Cette page répertorie l'ensemble des billets que vous avez acheté. Vous devez 
 
 En cliquant sur ![icone_carte](img/icones/icone_map.png) vous afficherez une carte reprenant les gares du trajet.
 
-En cliquant sur ![icone_imprimante](img/icones/icone_imprimante.png) vous pourvez enlever un billet de votre panier.
+En cliquant sur ![icone_imprimante](img/icones/icone_imprimante.png) vous pouvez imprimer un billet par passager:
+![billet_imprimé](img/print.png)
 
 Vous pouvez également afficher les passagers concernés par le voyage:
 
